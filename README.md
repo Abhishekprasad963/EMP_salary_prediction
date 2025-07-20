@@ -1,10 +1,10 @@
-# 💼 Salary Prediction using Linear Regression
+#  Salary Prediction using Linear Regression
 
 This project uses machine learning (Linear Regression) to predict employee salaries based on various factors like Age, Gender, Degree, Job Title, and Experience Years. Built using Jupyter Notebook and Python libraries like scikit-learn and pandas.
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 In today’s data-driven world, predicting employee salaries based on qualifications and experience can help HR teams, job seekers, and analysts make informed decisions. This project:
 - Trains a regression model
@@ -13,7 +13,7 @@ In today’s data-driven world, predicting employee salaries based on qualificat
 
 ---
 
-## 🧠 Features Used
+##  Features Used
 
 - Age
 - Gender
@@ -23,7 +23,7 @@ In today’s data-driven world, predicting employee salaries based on qualificat
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Clone the Repository
 
@@ -40,19 +40,18 @@ Step 3: Launch the Notebook
 jupyter notebook
 Then open salary_predictor.ipynb and run the cells in order.
 
-📈 Evaluation Metrics
-📉 Mean Absolute Error (MAE)
+Evaluation Metrics
+Mean Absolute Error (MAE)
+Root Mean Square Error (RMSE)
 
-📉 Root Mean Square Error (RMSE)
-
-📦 Files Included
+# Files Included
 File	Description
 salary_predictor.ipynb	Main notebook containing the model
 data.csv	Dataset with employee details
 README.md	This file
 .gitignore	To ignore unnecessary files
 
-✨ Custom Prediction Example
+# Custom Prediction Example
 
 # Sample input
 Age = 30
@@ -64,15 +63,15 @@ Experience_year = 8
 # Predict salary
 Emp_Salary = model.predict([[Age, Gender, Degree, Job_Title, Experience_year]])
 
-🤖 Tech Stack
+# Tech Stack
 Python
 Jupyter Notebook
 Pandas
 scikit-learn
 Matplotlib
 
-🙋‍♀️ Author
-👩‍💻 Swikriti Suman
+# Author
+#Abhishek Prasad
 Passionate about data science and web development.
 
 
